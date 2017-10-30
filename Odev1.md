@@ -10,13 +10,14 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  (buraya proje başlığını yazınız)
 ## Özet
-    Seçtiğimiz soru 2018 sorularından ‘’Weighing Time’’dır .Bir kum saatinin aktığı sırada ağırlığının değiştiği (bir ölçekle ölçüldüğünde) yaygın olarak bilinir .Bizden bu fenomeni araştırmamız istenmektedir.
+   Seçtiğimiz soru 2018 sorularından ‘’Weighing Time’’dır .Bir kum saatinin aktığı sırada ağırlığının değiştiği (bir ölçekle ölçüldüğünde) yaygın olarak bilinir .Bizden bu fenomeni araştırmamız istenmektedir.
 Kum saati dar bir boğazla birbirine bağlanmış iki cam kaptan oluşan ve üstteki kapta bulunan kumun aşağıya akmasından yararlanarak zamanı anlamaya, ölçmeye yarayan araçtır.
 Amacımız tüm kum tanelerinin kum saatinin alt bölümünde dinleme halindeyken ve kum saatinin döndürdüğümüzde kum düşmeye başladığından tüm kumlar altta dinlenme haline gelene kadar ki ağırlıkları ölçüp, bazı etkenleri değiştirerek, bu ağırlıklar arasındaki farkların neylere bağlı olduğunu bulmaktır.Bu deneyi yaparken ;
 -iki adet cam şişe
 -şişeleri ağızlarından birbirine yapıştırabilmek için yapıştırıcı
 -kum
 -hassas bir ağırlık ölçer.
+
 
 
 ## Kaynakçalar  
